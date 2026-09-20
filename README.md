@@ -21,7 +21,7 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2V5Z2R6b3FqZ3V2c3Z1a2x0b2J0d2Z0c2V5dW1zZ2x2eWJ0d2JmMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zhYSVCirREeIZtONCI/giphy.gif"/>
 
-Hi! I'm **Romi**, a Computer Science graduate and aspiring **Frontend Developer** who loves turning ideas into interactive web experiences. 🚀
+Hi! I'm **Romilda**, a Computer Science graduate and aspiring **Frontend Developer** who loves turning ideas into interactive web experiences. 🚀
 
 💡 I enjoy building:
 
@@ -108,25 +108,6 @@ Currently improving my skills in:
 <br/>
 
 ---
-
-### 💰 3. Expense Tracker
-
-> A responsive React application for managing personal expenses.
-
-**✨ Features**
-
-- ➕ Add expenses
-- 🗑️ Delete expenses
-- 📊 Expense tracking
-- 📱 Responsive interface
-- ⚛️ React state management
-- 💾 Dynamic UI updates
-
-**Tech:** `React` `JavaScript` `CSS`
-
-<br/>
-
-
 <!-- ======================= WHAT I'M LEARNING ======================= -->
 
 ## 📚 Currently Learning
@@ -149,17 +130,13 @@ Currently improving my skills in:
 
 ## 📊 GitHub Activity
 
+### 🟢 View My Real GitHub Contributions
+
 <div align="center">
 
-<a href="https://github.com/Romildajayaraj">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Romildajayaraj&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</a>
-
-<br/>
-
-### 🟢 View My Real GitHub Contributions
+</div>
 
 <a href="https://github.com/Romildajayaraj">
   <img src="https://img.shields.io/badge/View%20My%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
